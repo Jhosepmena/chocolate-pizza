@@ -90,25 +90,29 @@ input[type=checkbox]:checked + label {
 }
 
 .bioWrapper {
-    border: 15px solid transparent;
-    -moz-border-image: url("./assets/border.png") 80 80 80 80 round;
-    -webkit-border-image: url("./assets/border.png") 80 80 80 80 round;
-    border-image: url("./assets/border.png") 45 45 45 45 round;
-    border-bottom: 0;
+    border: 12px solid transparent;
+    -moz-border-image: url("./assets/border.png") 45 round;
+    -webkit-border-image: url("./assets/border.png") 45 round;
+    border-image: url("./assets/border.png") 45 round ;
+    border-bottom: 400px;
     border-left: 0;
     border-right: 0;
-    padding: 40px 100px 40px 100px;
+    padding: 40px 
+	
+	
 }
 
 .van {
   float:left;
   margin-right: 20px;
+	
 }
 
 .her-name {
   font-family: "serif";
   font-size: 20px;
   font-weight: bold;
+	padding-top: 3px
 
 }
 
@@ -117,6 +121,7 @@ input[type=checkbox]:checked + label {
   font-size: 16px;
   text-indent: 0px;
   max-width:550;
+	padding-top: 10px;
  }
 
 
@@ -128,6 +133,7 @@ input[type=checkbox]:checked + label {
   color: #fff ;
   text-align: center;
   margin-right: 30px;
+	 
 }
 
 footer {
