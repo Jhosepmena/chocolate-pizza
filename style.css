@@ -17,6 +17,19 @@ h5 {
   font-weight: lighter;
  }
 
+ .printer {
+  float:right;
+  right: 10px;
+  padding: 5px;
+}
+.print {
+  float:right;
+  right: 10px;
+  padding: 5px;
+  color:#808080;
+  font-size: 11px;
+  font-family: sans-serif;
+}
 
 
 
