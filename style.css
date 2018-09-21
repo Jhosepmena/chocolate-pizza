@@ -19,11 +19,11 @@ footer img {
   margin: 
 }
 footer div.footerPart2 {
-  display: 
-  float: 
-  width: 
-  border-bottom: 
-  padding-top: 
+  display: inline-block;
+  float: right;
+  width: 423px;
+  border-bottom: 1px #eaeaea solid;
+  padding-top: 15px;
 }
 footer p.footerText{
   margin-top: 
