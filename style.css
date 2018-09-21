@@ -45,7 +45,15 @@ p.fig {
 
 
 
+.shop-list{
+  width: 900px;
+  height: 300px;
+  background-image: url(assets/list-bg.png);
+  position: relative;
+  margin-bottom: 50px;
+  font-family: "Short Stack";
 
+}
 
 
 
