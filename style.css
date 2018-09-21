@@ -1,11 +1,11 @@
 footer {
-  clear: 
-  height: 
-  text-align: 
-  font-family: 
-  font-size: 
-  color:
-  margin-top: 
+  clear: both;
+  height: 100px;
+  text-align: center;
+  font-family: Georgia, serif;
+  font-size: 10px;
+  color: #c9c9c9;
+  margin-top: 20px;
 }
 footer div.footerPart1 {
   display: 
