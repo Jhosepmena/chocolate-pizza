@@ -55,6 +55,18 @@ p.fig {
 
 }
 
+.list-left{
+  width:350px;
+  float: left;
+  margin: 45px 40px 0px 50px;
+  }
+
+.list-right {
+    width:350px;
+    float: left;
+    margin:45px 40px 0px 50px;
+  }
+
 
 
 
