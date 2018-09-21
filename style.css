@@ -8,11 +8,11 @@ footer {
   margin-top: 20px;
 }
 footer div.footerPart1 {
-  display: 
-  float: 
-  width: 
-  border-bottom: 
-  padding-top: 
+  display: inline-block;
+  float: left;
+  width: 423px;
+  border-bottom: 1px #eaeaea solid;
+  padding-top: 15px;
 }
 footer img {
   display: 
